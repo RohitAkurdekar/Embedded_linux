@@ -20,4 +20,4 @@ Concepts of embedded linux
 
 <h2>If network adapter is not available / NetworkManager needs to be running</h2>
 
-sudo systemctl start NetworkManager.service
+    sudo systemctl start NetworkManager.service
