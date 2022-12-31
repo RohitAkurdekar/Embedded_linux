@@ -15,3 +15,9 @@ Concepts of embedded linux
 * Thread
 * Mutex
 * Semaphore
+
+-------------------------------------------------------------------------------------
+
+<h2>If network adapter is not available / NetworkManager needs to be running</h2>
+
+sudo systemctl start NetworkManager.service
